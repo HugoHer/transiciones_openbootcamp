@@ -1,0 +1,15 @@
+
+.btn-modern:hover{
+  transform: translateY(-5px);
+  box-shadow: 0 0 5;
+  background-color: blueviolet;
+  color: aqua;
+}
+
+.btn-modern{
+  transition: transform 4s ease-in-out;
+  width: 90px;
+  height: 40px;
+  background-color: greenyellow;
+}
+
